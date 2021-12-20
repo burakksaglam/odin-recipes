@@ -1,0 +1,43 @@
+h1 {
+    background-color: yellow;
+    color: purple;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+h2 {
+    color: white;
+    background-color: green;
+}
+
+p {
+    background-color: slateblue;
+    color: yellow;
+    font-size: 25px;     
+}
+
+h3 {
+    background-color: turquoise;
+    color: brown;
+}
+
+ul {
+    background-color: red;
+    color: green;
+    font-size: 20px;
+}
+
+h4 {
+    background-color: turquoise;
+    color: brown;
+}
+
+ol {
+    background-color: royalblue;
+    color: yellow;
+    font-size: 20px;
+    font-weight: 500;
+}
